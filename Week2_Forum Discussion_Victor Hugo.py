@@ -1,3 +1,6 @@
+"""
+@Author:Victor Hugo de Barros
+"""
 #Example1
 fruits: [] #Paramenters is the variables inputed in the paretheses in a functiom.
 a = input("Write the number of Bananas") #First Paramenter
