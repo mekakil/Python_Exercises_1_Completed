@@ -1,3 +1,6 @@
+"""
+@Author:Victor Hugo de Barros
+"""
 def square_root(sideone, sidetwo): #Function for calculating the square-root of a square.
     x = sideone   #To inform the value of side one.
     y = sidetwo   #To inform the value of side two.
